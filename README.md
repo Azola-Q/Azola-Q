@@ -9,10 +9,7 @@
 
 ## 📌 About Me
 
-Driven and innovative IT professional with expertise in technical support, web development, and project management.  
-Proficient in facilitating e-learning, software development, and technical troubleshooting.  
-Passionate about problem-solving and leveraging technology to deliver impactful solutions.  
-Experienced in collaborating with diverse teams and adapting to dynamic environments.
+Driven and innovative IT professional with expertise in technical support, web development, and project management. Proficient in facilitating e-learning, software development, and technical troubleshooting. Passionate about problem-solving and leveraging technology to deliver impactful solutions. Experienced in collaborating with diverse teams and adapting to dynamic environments.
 
 ---
 
