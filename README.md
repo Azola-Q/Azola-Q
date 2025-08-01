@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <div align="center">
-  <h1 style="font-weight:bold;">Hi there! 👋 I'm <span style="color:#007bff;">Azola-Q</span></h1>
+  <h1>Hi there! 👋 I'm <span style="color:#007bff;">Azola-Q</span></h1>
   <p>A passionate developer who loves creating innovative solutions. My journey in tech is driven by curiosity and a desire to build impactful projects.</p>
 </div>
 
@@ -20,21 +20,31 @@ Experienced in collaborating with diverse teams and adapting to dynamic environm
 
 <div align="center">
 
-<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">Python</span>
-<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">Java</span>
-<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">Visual Basics</span>
-<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">HTML/CSS/Bootstrap</span>
-<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">JavaScript</span>
-<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">Flask</span>
-<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">Django</span>
-<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">MySQL</span>
-<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">WordPress</span>
-<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">Streamlit</span>
-<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">Git</span>
-<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">Render</span>
-<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">API Integration</span>
-<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">No-Code Tools (Lovable, Make, Landbot)</span>
-<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">AI APIs (Cohere, OpenAI, Hugging Face)</span>
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python-007bff?style=for-the-badge&logo=python&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Java-007bff?style=for-the-badge&logo=java&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Visual%20Basics-007bff?style=for-the-badge&logo=visualstudio&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/HTML/CSS/Bootstrap-007bff?style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/JavaScript-007bff?style=for-the-badge&logo=javascript&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Flask-007bff?style=for-the-badge&logo=flask&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Django-007bff?style=for-the-badge&logo=django&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/MySQL-007bff?style=for-the-badge&logo=mysql&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/WordPress-007bff?style=for-the-badge&logo=wordpress&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Streamlit-007bff?style=for-the-badge&logo=streamlit&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Git-007bff?style=for-the-badge&logo=git&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Render-007bff?style=for-the-badge&logo=render&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/API%20Integration-007bff?style=for-the-badge"/></td>
+    <td colspan="2"><img src="https://img.shields.io/badge/No--Code%20Tools(Lovable,Make,Landbot)-007bff?style=for-the-badge"/></td>
+    <td><img src="https://img.shields.io/badge/AI%20APIs(Cohere,OpenAI,Hugging%20Face)-007bff?style=for-the-badge"/></td>
+  </tr>
+</table>
 
 </div>
 
@@ -80,8 +90,8 @@ Currently, I don't have any blog posts. Stay tuned for updates!
 
 ## 📬 Connect with Me
 
-💌 [Email Me](mailto:your.email@example.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+💌 [Email Me](mailto:azolaqakaqu@gmail.com)  
+🔗 [LinkedIn](http://www.linkedin.com/in/azola-qakaqu-b82320234) 
 🐙 [GitHub](https://github.com/Azola-Q)
 
 ---
