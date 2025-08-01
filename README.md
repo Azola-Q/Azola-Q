@@ -89,6 +89,7 @@ Currently, I don't have any blog posts. Stay tuned for updates!
 
 💌 [Email Me](mailto:azolaqakaqu@gmail.com)  
 🔗 [LinkedIn](http://www.linkedin.com/in/azola-qakaqu-b82320234) 
+
 🐙 [GitHub](https://github.com/Azola-Q)
 
 ---
