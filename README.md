@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <div align="center">
-  <h1>Hi there! 👋 I'm <span style="color:#007bff;">Azola-Q</span></h1>
+  <h1 style="font-weight:bold;">Hi there! 👋 I'm <span style="color:#007bff;">Azola-Q</span></h1>
   <p>A passionate developer who loves creating innovative solutions. My journey in tech is driven by curiosity and a desire to build impactful projects.</p>
 </div>
 
@@ -16,22 +16,25 @@ Experienced in collaborating with diverse teams and adapting to dynamic environm
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technical Skills
 
 <div align="center">
 
-<span style="display:inline-block;background:#007bff;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">Java</span>
-<span style="display:inline-block;background:#6f42c1;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">Python</span>
-<span style="display:inline-block;background:#17a2b8;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">Flask</span>
-<span style="display:inline-block;background:#28a745;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">Django</span>
-<span style="display:inline-block;background:#e83e8c;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">HTML</span>
-<span style="display:inline-block;background:#fd7e14;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">CSS</span>
-<span style="display:inline-block;background:#ffc107;color:black;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">Bootstrap</span>
-<span style="display:inline-block;background:#343a40;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">GitHub</span>
-<span style="display:inline-block;background:#20c997;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">MySQL</span>
-<span style="display:inline-block;background:#6610f2;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">Supabase</span>
-<span style="display:inline-block;background:#17a2b8;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">WordPress</span>
-<span style="display:inline-block;background:#6c757d;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">Visual Studio</span>
+<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">Python</span>
+<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">Java</span>
+<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">Visual Basics</span>
+<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">HTML/CSS/Bootstrap</span>
+<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">JavaScript</span>
+<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">Flask</span>
+<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">Django</span>
+<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">MySQL</span>
+<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">WordPress</span>
+<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">Streamlit</span>
+<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">Git</span>
+<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">Render</span>
+<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">API Integration</span>
+<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">No-Code Tools (Lovable, Make, Landbot)</span>
+<span style="display:inline-block;background-color:#007bff;color:#fff;padding:6px 16px;margin:6px;border-radius:999px;font-weight:bold;">AI APIs (Cohere, OpenAI, Hugging Face)</span>
 
 </div>
 
@@ -50,8 +53,8 @@ Experienced in collaborating with diverse teams and adapting to dynamic environm
 ## 📊 GitHub Stats
 
 🛠️ **Public Repositories:** 7  
-👥 **Followers:** 1  
-🔄 **Following:** 1  
+👥 **Followers:** 0  
+🔄 **Following:** 0  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Azola-Q&show_icons=true&theme=radical" alt="Azola's GitHub Stats">
