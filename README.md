@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 About Me
+## About Me
 
 <div align="center">
 Driven and innovative IT professional with expertise in technical support, web development, and project management. Proficient in facilitating e-learning, software development, and technical troubleshooting. Passionate about problem-solving and leveraging technology to deliver impactful solutions. Experienced in collaborating with diverse teams and adapting to dynamic environments.
@@ -15,7 +15,7 @@ Driven and innovative IT professional with expertise in technical support, web d
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <div align="center">
 
@@ -49,7 +49,7 @@ Driven and innovative IT professional with expertise in technical support, web d
 
 ---
 
-## 🚀 Top Projects
+## Top Projects
 
 
 
@@ -63,7 +63,7 @@ Driven and innovative IT professional with expertise in technical support, web d
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div>
 
@@ -79,21 +79,21 @@ Driven and innovative IT professional with expertise in technical support, web d
 
 ---
 
-## 🕒 Recent Activity
+## Recent Activity
 
 <div>
 
-- 📦 Pushed changes to [cars-sentiments](https://github.com/Azola-Q/cars-sentiments) on July 7, 2025  
-- 🌱 Created a new branch in [Cars_Sense](https://github.com/Azola-Q/Cars_Sense) on July 7, 2025  
-- 🛠️ Updated `app.py` in [cars-sentiments](https://github.com/Azola-Q/cars-sentiments) on July 7, 2025  
-- 🚀 Created repository [cars-sense](https://github.com/Azola-Q/cars-sense) on July 7, 2025  
-- ✏️ Updated `index.html` in [cars-sentiments](https://github.com/Azola-Q/cars-sentiments) on July 7, 2025  
+- Pushed changes to [cars-sentiments](https://github.com/Azola-Q/cars-sentiments) on July 7, 2025  
+- Created a new branch in [Cars_Sense](https://github.com/Azola-Q/Cars_Sense) on July 7, 2025  
+-  Updated `app.py` in [cars-sentiments](https://github.com/Azola-Q/cars-sentiments) on July 7, 2025  
+- Created repository [cars-sense](https://github.com/Azola-Q/cars-sense) on July 7, 2025  
+- Updated `index.html` in [cars-sentiments](https://github.com/Azola-Q/cars-sentiments) on July 7, 2025  
 
 </div>
 
 ---
 
-## ✍️ Latest Blog Posts
+## Latest Blog Posts
 
 <div>
 
@@ -103,7 +103,7 @@ Currently, I don't have any blog posts. Stay tuned for updates!
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 <div>
 
