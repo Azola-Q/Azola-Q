@@ -1,46 +1,84 @@
-## Hi there! 👋
+<!-- README.md -->
 
-I'm Azola-Q, a passionate developer who loves creating innovative solutions. My journey in tech is driven by curiosity and a desire to build impactful projects.
+<div align="center">
+  <h1>Hi there! 👋 I'm <span style="color:#007bff;">Azola-Q</span></h1>
+  <p>A passionate developer who loves creating innovative solutions. My journey in tech is driven by curiosity and a desire to build impactful projects.</p>
+</div>
 
-## About Me
+<hr>
 
-Driven and innovative IT professional with technical support, web development, and project management 
-expertise. Proficient in facilitating e-learning, software development, and technical troubleshooting. 
-Passionate about problem-solving and leveraging technology to deliver impactful solutions. Experienced in 
-collaborating with diverse teams and adapting to dynamic environments.
+<h2>📌 About Me</h2>
+<p>
+  Driven and innovative IT professional with expertise in technical support, web development, and project management.<br>
+  Proficient in facilitating e-learning, software development, and technical troubleshooting.<br>
+  Passionate about problem-solving and leveraging technology to deliver impactful solutions.<br>
+  Experienced in collaborating with diverse teams and adapting to dynamic environments.
+</p>
 
-## Skills & Technologies
+<hr>
 
-java,visualstudio,bootstrap,css,flask,django,github,html,py,wordpress,supabase,mysql
+<h2>🛠️ Skills & Technologies</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">Java</span>
+  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">Visual Studio</span>
+  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">Bootstrap</span>
+  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">CSS</span>
+  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">Flask</span>
+  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">Django</span>
+  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">GitHub</span>
+  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">HTML</span>
+  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">Python</span>
+  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">WordPress</span>
+  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">Supabase</span>
+  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">MySQL</span>
+</div>
 
-## Top Projects
+<hr>
 
-- [azola-portfolio](https://github.com/Azola-Q/azola-portfolio) - A personal portfolio showcasing my projects and skills. (Language: HTML, Stars: 0, Forks: 0)
-- [sentiment-dashboard-main](https://github.com/Azola-Q/sentiment-dashboard-main) - A sentiment analysis dashboard. (Language: HTML, Stars: 0, Forks: 0)
-- [Cars_Sentiment](https://github.com/Azola-Q/Cars_Sentiment) - A sentiment analysis project focused on automobiles. (Language: HTML, Stars: 0, Forks: 0)
-- [Cars_Sense](https://github.com/Azola-Q/Cars_Sense) - An interactive application to understand car sentiments. (Language: HTML, Stars: 0, Forks: 0)
-- [cars-sentiments](https://github.com/Azola-Q/cars-sentiments) - A comprehensive sentiment analysis tool for cars. (Language: Python, Stars: 0, Forks: 0)
+<h2>🚀 Top Projects</h2>
+<ul>
+  <li><a href="https://github.com/Azola-Q/azola-portfolio"><strong>azola-portfolio</strong></a> — A personal portfolio showcasing my projects and skills. (HTML)</li>
+  <li><a href="https://github.com/Azola-Q/sentiment-dashboard-main"><strong>sentiment-dashboard-main</strong></a> — A sentiment analysis dashboard. (HTML)</li>
+  <li><a href="https://github.com/Azola-Q/Cars_Sentiment"><strong>Cars_Sentiment</strong></a> — A sentiment analysis project focused on automobiles. (HTML)</li>
+  <li><a href="https://github.com/Azola-Q/Cars_Sense"><strong>Cars_Sense</strong></a> — An interactive application to understand car sentiments. (HTML)</li>
+  <li><a href="https://github.com/Azola-Q/cars-sentiments"><strong>cars-sentiments</strong></a> — A comprehensive sentiment analysis tool for cars. (Python)</li>
+</ul>
 
-## GitHub Stats
+<hr>
 
-🛠️ **Public Repositories:** 7
-👥 **Followers:** 0
-🔄 **Following:** 0
+<h2>📊 GitHub Stats</h2>
+<p>
+  🛠️ <strong>Public Repositories:</strong> 7 <br>
+  👥 <strong>Followers:</strong> 0 <br>
+  🔄 <strong>Following:</strong> 0
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azola-Q&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Azola-Q&show_icons=true&theme=radical" alt="Azola's GitHub Stats">
 
-## Recent Activity
+<hr>
 
-- Pushed changes to [cars-sentiments](https://github.com/Azola-Q/cars-sentiments) on July 7, 2025.
-- Created a new branch in [Cars_Sense](https://github.com/Azola-Q/Cars_Sense) on July 7, 2025.
-- Updated `app.py` in [cars-sentiments](https://github.com/Azola-Q/cars-sentiments) on July 7, 2025.
-- Created repository [cars-sense](https://github.com/Azola-Q/cars-sense) on July 7, 2025.
-- Updated `index.html` in [cars-sentiments](https://github.com/Azola-Q/cars-sentiments) on July 7, 2025.
+<h2>📌 Recent Activity</h2>
+<ul>
+  <li>Pushed changes to <a href="https://github.com/Azola-Q/cars-sentiments">cars-sentiments</a> on July 7, 2025.</li>
+  <li>Created a new branch in <a href="https://github.com/Azola-Q/Cars_Sense">Cars_Sense</a> on July 7, 2025.</li>
+  <li>Updated <code>app.py</code> in <a href="https://github.com/Azola-Q/cars-sentiments">cars-sentiments</a> on July 7, 2025.</li>
+  <li>Created repository <a href="https://github.com/Azola-Q/cars-sense">cars-sense</a> on July 7, 2025.</li>
+  <li>Updated <code>index.html</code> in <a href="https://github.com/Azola-Q/cars-sentiments">cars-sentiments</a> on July 7, 2025.</li>
+</ul>
 
-## Latest Blog Posts
+<hr>
 
-Currently, I don't have any blog posts. Stay tuned for updates!
+<h2>✍️ Latest Blog Posts</h2>
+<p>Currently, I don't have any blog posts. Stay tuned for updates!</p>
 
-## Connect with Me
+<hr>
 
-{}
+<h2>📬 Connect with Me</h2>
+<p>
+  <a href="mailto:your.email@example.com"><strong>Email</strong></a> | 
+  <a href="https://www.linkedin.com/in/your-profile"><strong>LinkedIn</strong></a> |
+  <a href="https://github.com/Azola-Q"><strong>GitHub</strong></a>
+</p>
+
+---
+
