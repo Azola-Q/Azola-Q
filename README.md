@@ -65,7 +65,7 @@ Driven and innovative IT professional with expertise in technical support, web d
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
 
 🛠️ **Public Repositories:** 7  
 👥 **Followers:** 1  
@@ -81,7 +81,7 @@ Driven and innovative IT professional with expertise in technical support, web d
 
 ## 🕒 Recent Activity
 
-<div align="center">
+<div>
 
 - 📦 Pushed changes to [cars-sentiments](https://github.com/Azola-Q/cars-sentiments) on July 7, 2025  
 - 🌱 Created a new branch in [Cars_Sense](https://github.com/Azola-Q/Cars_Sense) on July 7, 2025  
