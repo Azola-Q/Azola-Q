@@ -18,19 +18,46 @@
 <hr>
 
 <h2>🛠️ Skills & Technologies</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">Java</span>
-  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">Visual Studio</span>
-  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">Bootstrap</span>
-  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">CSS</span>
-  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">Flask</span>
-  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">Django</span>
-  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">GitHub</span>
-  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">HTML</span>
-  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">Python</span>
-  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">WordPress</span>
-  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">Supabase</span>
-  <span style="background-color:#f1f1f1; padding:5px 10px; border-radius:5px;">MySQL</span>
+
+<style>
+  .skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .skill-block {
+    background: linear-gradient(145deg, #f0f0f0, #dcdcdc);
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px 16px;
+    font-weight: 600;
+    font-family: monospace;
+    transition: all 0.3s ease;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+  }
+
+  .skill-block:hover {
+    transform: scale(1.05);
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+  }
+</style>
+
+<div class="skills-container">
+  <div class="skill-block">Java</div>
+  <div class="skill-block">Visual Studio</div>
+  <div class="skill-block">Bootstrap</div>
+  <div class="skill-block">CSS</div>
+  <div class="skill-block">Flask</div>
+  <div class="skill-block">Django</div>
+  <div class="skill-block">GitHub</div>
+  <div class="skill-block">HTML</div>
+  <div class="skill-block">Python</div>
+  <div class="skill-block">WordPress</div>
+  <div class="skill-block">Supabase</div>
+  <div class="skill-block">MySQL</div>
 </div>
 
 <hr>
