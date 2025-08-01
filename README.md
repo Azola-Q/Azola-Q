@@ -51,7 +51,7 @@ Driven and innovative IT professional with expertise in technical support, web d
 
 ## 🚀 Top Projects
 
-<div align="center">
+
 
 - [**azola-portfolio**](https://github.com/Azola-Q/azola-portfolio) — A personal portfolio showcasing my projects and skills. (HTML)  
 - [**sentiment-dashboard-main**](https://github.com/Azola-Q/sentiment-dashboard-main) — A sentiment analysis dashboard. (HTML)  
@@ -59,7 +59,7 @@ Driven and innovative IT professional with expertise in technical support, web d
 - [**Cars_Sense**](https://github.com/Azola-Q/Cars_Sense) — An interactive application to understand car sentiments. (HTML)  
 - [**cars-sentiments**](https://github.com/Azola-Q/cars-sentiments) — A comprehensive sentiment analysis tool for cars. (Python)  
 
-</div>
+
 
 ---
 
