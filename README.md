@@ -5,107 +5,72 @@
   <p>A passionate developer who loves creating innovative solutions. My journey in tech is driven by curiosity and a desire to build impactful projects.</p>
 </div>
 
-<hr>
+---
 
-<h2>📌 About Me</h2>
-<p>
-  Driven and innovative IT professional with expertise in technical support, web development, and project management.<br>
-  Proficient in facilitating e-learning, software development, and technical troubleshooting.<br>
-  Passionate about problem-solving and leveraging technology to deliver impactful solutions.<br>
-  Experienced in collaborating with diverse teams and adapting to dynamic environments.
-</p>
+## 📌 About Me
 
-<hr>
+Driven and innovative IT professional with expertise in technical support, web development, and project management.  
+Proficient in facilitating e-learning, software development, and technical troubleshooting.  
+Passionate about problem-solving and leveraging technology to deliver impactful solutions.  
+Experienced in collaborating with diverse teams and adapting to dynamic environments.
 
-<h2>🛠️ Skills & Technologies</h2>
+---
 
-<style>
-  .skills-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-  }
+## 🛠️ Skills & Technologies
 
-  .skill-block {
-    background: linear-gradient(145deg, #f0f0f0, #dcdcdc);
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    padding: 10px 16px;
-    font-weight: 600;
-    font-family: monospace;
-    transition: all 0.3s ease;
-    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
-  }
+<div align="center">
 
-  .skill-block:hover {
-    transform: scale(1.05);
-    background-color: #007bff;
-    color: white;
-    cursor: pointer;
-  }
-</style>
+🎯 <strong>Core Skills</strong>  
+🧱 Java &nbsp; 🧱 Python &nbsp; 🧱 Flask &nbsp; 🧱 Django  
+🧱 HTML &nbsp; 🧱 CSS &nbsp; 🧱 Bootstrap &nbsp; 🧱 GitHub  
+🧱 Supabase &nbsp; 🧱 MySQL &nbsp; 🧱 WordPress &nbsp; 🧱 Visual Studio  
 
-<div class="skills-container">
-  <div class="skill-block">Java</div>
-  <div class="skill-block">Visual Studio</div>
-  <div class="skill-block">Bootstrap</div>
-  <div class="skill-block">CSS</div>
-  <div class="skill-block">Flask</div>
-  <div class="skill-block">Django</div>
-  <div class="skill-block">GitHub</div>
-  <div class="skill-block">HTML</div>
-  <div class="skill-block">Python</div>
-  <div class="skill-block">WordPress</div>
-  <div class="skill-block">Supabase</div>
-  <div class="skill-block">MySQL</div>
 </div>
 
-<hr>
+---
 
-<h2>🚀 Top Projects</h2>
-<ul>
-  <li><a href="https://github.com/Azola-Q/azola-portfolio"><strong>azola-portfolio</strong></a> — A personal portfolio showcasing my projects and skills. (HTML)</li>
-  <li><a href="https://github.com/Azola-Q/sentiment-dashboard-main"><strong>sentiment-dashboard-main</strong></a> — A sentiment analysis dashboard. (HTML)</li>
-  <li><a href="https://github.com/Azola-Q/Cars_Sentiment"><strong>Cars_Sentiment</strong></a> — A sentiment analysis project focused on automobiles. (HTML)</li>
-  <li><a href="https://github.com/Azola-Q/Cars_Sense"><strong>Cars_Sense</strong></a> — An interactive application to understand car sentiments. (HTML)</li>
-  <li><a href="https://github.com/Azola-Q/cars-sentiments"><strong>cars-sentiments</strong></a> — A comprehensive sentiment analysis tool for cars. (Python)</li>
-</ul>
+## 🚀 Top Projects
 
-<hr>
+- [**azola-portfolio**](https://github.com/Azola-Q/azola-portfolio) — A personal portfolio showcasing my projects and skills. (HTML)  
+- [**sentiment-dashboard-main**](https://github.com/Azola-Q/sentiment-dashboard-main) — A sentiment analysis dashboard. (HTML)  
+- [**Cars_Sentiment**](https://github.com/Azola-Q/Cars_Sentiment) — A sentiment analysis project focused on automobiles. (HTML)  
+- [**Cars_Sense**](https://github.com/Azola-Q/Cars_Sense) — An interactive application to understand car sentiments. (HTML)  
+- [**cars-sentiments**](https://github.com/Azola-Q/cars-sentiments) — A comprehensive sentiment analysis tool for cars. (Python)  
 
-<h2>📊 GitHub Stats</h2>
-<p>
-  🛠️ <strong>Public Repositories:</strong> 7 <br>
-  👥 <strong>Followers:</strong> 0 <br>
-  🔄 <strong>Following:</strong> 0
-</p>
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Azola-Q&show_icons=true&theme=radical" alt="Azola's GitHub Stats">
+## 📊 GitHub Stats
 
-<hr>
+🛠️ **Public Repositories:** 7  
+👥 **Followers:** 0  
+🔄 **Following:** 0  
 
-<h2>📌 Recent Activity</h2>
-<ul>
-  <li>Pushed changes to <a href="https://github.com/Azola-Q/cars-sentiments">cars-sentiments</a> on July 7, 2025.</li>
-  <li>Created a new branch in <a href="https://github.com/Azola-Q/Cars_Sense">Cars_Sense</a> on July 7, 2025.</li>
-  <li>Updated <code>app.py</code> in <a href="https://github.com/Azola-Q/cars-sentiments">cars-sentiments</a> on July 7, 2025.</li>
-  <li>Created repository <a href="https://github.com/Azola-Q/cars-sense">cars-sense</a> on July 7, 2025.</li>
-  <li>Updated <code>index.html</code> in <a href="https://github.com/Azola-Q/cars-sentiments">cars-sentiments</a> on July 7, 2025.</li>
-</ul>
-
-<hr>
-
-<h2>✍️ Latest Blog Posts</h2>
-<p>Currently, I don't have any blog posts. Stay tuned for updates!</p>
-
-<hr>
-
-<h2>📬 Connect with Me</h2>
-<p>
-  <a href="mailto:your.email@example.com"><strong>Email</strong></a> | 
-  <a href="https://www.linkedin.com/in/your-profile"><strong>LinkedIn</strong></a> |
-  <a href="https://github.com/Azola-Q"><strong>GitHub</strong></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Azola-Q&show_icons=true&theme=radical" alt="Azola's GitHub Stats">
 </p>
 
 ---
 
+## 🕒 Recent Activity
+
+- 📦 Pushed changes to [cars-sentiments](https://github.com/Azola-Q/cars-sentiments) on July 7, 2025  
+- 🌱 Created a new branch in [Cars_Sense](https://github.com/Azola-Q/Cars_Sense) on July 7, 2025  
+- 🛠️ Updated `app.py` in [cars-sentiments](https://github.com/Azola-Q/cars-sentiments) on July 7, 2025  
+- 🚀 Created repository [cars-sense](https://github.com/Azola-Q/cars-sense) on July 7, 2025  
+- ✏️ Updated `index.html` in [cars-sentiments](https://github.com/Azola-Q/cars-sentiments) on July 7, 2025  
+
+---
+
+## ✍️ Latest Blog Posts
+
+Currently, I don't have any blog posts. Stay tuned for updates!
+
+---
+
+## 📬 Connect with Me
+
+💌 [Email Me](mailto:your.email@example.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+🐙 [GitHub](https://github.com/Azola-Q)
+
+---
