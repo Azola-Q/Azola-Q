@@ -9,7 +9,10 @@
 
 ## 📌 About Me
 
-Driven and innovative IT professional with expertise in technical support, web development, and project management. Proficient in facilitating e-learning, software development, and technical troubleshooting. Passionate about problem-solving and leveraging technology to deliver impactful solutions. Experienced in collaborating with diverse teams and adapting to dynamic environments.
+Driven and innovative IT professional with expertise in technical support, web development, and project management.  
+Proficient in facilitating e-learning, software development, and technical troubleshooting.  
+Passionate about problem-solving and leveraging technology to deliver impactful solutions.  
+Experienced in collaborating with diverse teams and adapting to dynamic environments.
 
 ---
 
@@ -17,10 +20,18 @@ Driven and innovative IT professional with expertise in technical support, web d
 
 <div align="center">
 
-🎯 <strong>Core Skills</strong>  
-🧱 Java &nbsp; 🧱 Python &nbsp; 🧱 Flask &nbsp; 🧱 Django  
-🧱 HTML &nbsp; 🧱 CSS &nbsp; 🧱 Bootstrap &nbsp; 🧱 GitHub  
-🧱 Supabase &nbsp; 🧱 MySQL &nbsp; 🧱 WordPress &nbsp; 🧱 Visual Studio  
+<span style="display:inline-block;background:#007bff;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">Java</span>
+<span style="display:inline-block;background:#6f42c1;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">Python</span>
+<span style="display:inline-block;background:#17a2b8;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">Flask</span>
+<span style="display:inline-block;background:#28a745;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">Django</span>
+<span style="display:inline-block;background:#e83e8c;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">HTML</span>
+<span style="display:inline-block;background:#fd7e14;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">CSS</span>
+<span style="display:inline-block;background:#ffc107;color:black;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">Bootstrap</span>
+<span style="display:inline-block;background:#343a40;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">GitHub</span>
+<span style="display:inline-block;background:#20c997;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">MySQL</span>
+<span style="display:inline-block;background:#6610f2;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">Supabase</span>
+<span style="display:inline-block;background:#17a2b8;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">WordPress</span>
+<span style="display:inline-block;background:#6c757d;color:white;padding:6px 12px;margin:4px;border-radius:20px;font-weight:bold;">Visual Studio</span>
 
 </div>
 
@@ -39,8 +50,8 @@ Driven and innovative IT professional with expertise in technical support, web d
 ## 📊 GitHub Stats
 
 🛠️ **Public Repositories:** 7  
-👥 **Followers:** 0  
-🔄 **Following:** 0  
+👥 **Followers:** 1  
+🔄 **Following:** 1  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Azola-Q&show_icons=true&theme=radical" alt="Azola's GitHub Stats">
