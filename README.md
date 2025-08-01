@@ -95,7 +95,7 @@ Driven and innovative IT professional with expertise in technical support, web d
 
 ## ✍️ Latest Blog Posts
 
-<div align="center">
+<div>
 
 Currently, I don't have any blog posts. Stay tuned for updates!
 
@@ -105,7 +105,7 @@ Currently, I don't have any blog posts. Stay tuned for updates!
 
 ## 📬 Connect with Me
 
-<div align="center">
+<div>
 
 💌 [Email Me](mailto:azolaqakaqu@gmail.com)  | 🔗 [LinkedIn](http://www.linkedin.com/in/azola-qakaqu-b82320234) | 🐙 [GitHub](https://github.com/Azola-Q)
 
