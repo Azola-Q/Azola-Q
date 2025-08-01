@@ -9,10 +9,7 @@
 
 ## 📌 About Me
 
-Driven and innovative IT professional with expertise in technical support, web development, and project management.  
-Proficient in facilitating e-learning, software development, and technical troubleshooting.  
-Passionate about problem-solving and leveraging technology to deliver impactful solutions.  
-Experienced in collaborating with diverse teams and adapting to dynamic environments.
+Driven and innovative IT professional with expertise in technical support, web development, and project management. Proficient in facilitating e-learning, software development, and technical troubleshooting. Passionate about problem-solving and leveraging technology to deliver impactful solutions. Experienced in collaborating with diverse teams and adapting to dynamic environments.
 
 ---
 
@@ -63,8 +60,8 @@ Experienced in collaborating with diverse teams and adapting to dynamic environm
 ## 📊 GitHub Stats
 
 🛠️ **Public Repositories:** 7  
-👥 **Followers:** 0  
-🔄 **Following:** 0  
+👥 **Followers:** 1  
+🔄 **Following:** 1  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Azola-Q&show_icons=true&theme=radical" alt="Azola's GitHub Stats">
