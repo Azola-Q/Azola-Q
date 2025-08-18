@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<div style="background-color:#f0f0f0; padding:20px; border-radius:10px;">
+<div style="background-color:#5798C7; padding:20px; border-radius:10px;">
 <div align="center">
   <h1>Hi there! 👋<br>I'm <span style="color:#90ee90;">Azola Qakaqu</span></h1>
   <p>A passionate developer who loves creating innovative solutions. My journey in tech is driven by curiosity and a desire to build impactful projects.</p>
