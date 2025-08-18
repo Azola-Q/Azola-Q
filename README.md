@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <div align="center">
-  <h1>Hi there! 👋 I'm <span style="color:#90ee90;">Azola Qakaqu</span></h1>
+  <h1>Hi there! 👋<br>I'm <span style="color:#90ee90;">Azola Qakaqu</span></h1>
   <p>A passionate developer who loves creating innovative solutions. My journey in tech is driven by curiosity and a desire to build impactful projects.</p>
 </div>
 
