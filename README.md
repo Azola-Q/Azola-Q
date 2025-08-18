@@ -1,9 +1,5 @@
 <!-- README.md -->
 
-
-
-<div style="background-color:#5798C7; padding:20px; border-radius:10px; color:white;">
-
   <div align="center">
     <h1>Hi there! 👋<br>I'm <span style="color:#90ee90;">Azola Qakaqu</span></h1>
     <p>A passionate developer who loves creating innovative solutions. My journey in tech is driven by curiosity and a desire to build impactful projects.</p>
@@ -114,4 +110,3 @@ Currently, I don't have any blog posts. Stay tuned for updates!
 💌 [Email Me](mailto:azolaqakaqu@gmail.com)  | 🔗 [LinkedIn](http://www.linkedin.com/in/azola-qakaqu-b82320234) | 🐙 [GitHub](https://github.com/Azola-Q) | [Portfolio](https://azola-portfolio.onrender.com/)
 
   </div>
-</div>
